@@ -1,0 +1,13 @@
+# CreditCardChanService
+
+## Requirements
+- requirement 1
+- requirement 2 
+- requirement 3
+
+| Headding | Headding | Headding |
+| -------- | -------- | -------- |
+| this is  | a sample table  | with stuff |
+| in it for | your viewing | pleasure |
+
+- added in version 1
