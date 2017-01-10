@@ -10,4 +10,5 @@
 | this is  | a sample table  | with stuff |
 | in it for | your viewing | pleasure |
 
-- added in version 1
+- added in version 1 
+- this was added in version 1 after version 2 was already created
